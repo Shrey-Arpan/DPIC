@@ -1,0 +1,6 @@
+{
+  "name": "D.P. Inter College",
+  "description": "Official website for D.P. Inter College featuring academic streams, admissions, notice board, student portal, photo gallery, and Google Maps location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
